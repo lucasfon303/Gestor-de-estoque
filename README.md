@@ -1,1 +1,3 @@
-# Projeto de Gestor de Estoque
+# Gestor de Estoque
+
+Projeto básico de um gestor de estoque.
